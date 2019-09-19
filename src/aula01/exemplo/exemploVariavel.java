@@ -1,4 +1,4 @@
-package aula1.exemplo;
+package aula01.exemplo;
 
 public class exemploVariavel {
 	public static void main(String[] args) {

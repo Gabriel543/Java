@@ -1,4 +1,4 @@
-package aula1.exemplo;
+package aula01.exemplo;
 
 public class EstruturaDeDecisao {
 	public static void main(String[] args) {

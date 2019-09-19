@@ -1,4 +1,4 @@
-package aula1.exemplo;
+package aula01.exemplo;
 
 public class HelloWorld {
 	/* Método principal - método de execução do Java */
