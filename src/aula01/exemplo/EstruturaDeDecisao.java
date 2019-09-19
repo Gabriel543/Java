@@ -17,12 +17,12 @@ public class EstruturaDeDecisao {
 			System.out.println("Vai ter que ir a pé.");
 		}
 		
-		String transporte = "carrro";	
+		String transporte = "Bicicleta";	
 		
 		// Estrutura Encadeada	
 		if(idade>18) {
 			System.out.println("Pode dirigir.");
-		}else if(transporte == "onibus"){
+		}else if(transporte.equalsIgnoreCase("bicicleta")){
 			System.out.println("Vai ter que pedalando!");
 		}else if(transporte == "onibus"){
 			System.out.println("Vai ter que de busão!");
